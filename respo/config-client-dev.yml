@@ -1,5 +1,5 @@
 foo: foo version 6
 democonfigclient:
  message: hello spring io
-server:
- port: 8762
+#server:
+ #port: 8762
